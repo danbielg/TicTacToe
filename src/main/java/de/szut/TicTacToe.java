@@ -19,10 +19,12 @@ public class TicTacToe {
             for(int i = 0; i < 3; i++) {
 
             }
+
+        return ' ' ;
     }
-    
+
     private char checkRow(int r, char player) {
-        
+        return ' ' ;
     }
 
     private void checkBounds(int x, int y) {
